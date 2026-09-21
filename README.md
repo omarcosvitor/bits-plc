@@ -30,8 +30,7 @@ próximo nível.
 
 ## App publicado
 
-<!-- Preencher apos habilitar o GitHub Pages -->
-https://omarcosvitor.github.io/ByteLearn/
+https://omarcosvitor.github.io/bits-plc/
 
 No celular: abra o link no navegador e use "Adicionar à tela inicial" /
 "Instalar app". Depois do primeiro acesso o app abre e funciona sem internet.
